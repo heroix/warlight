@@ -24,7 +24,7 @@ import move.PlaceArmiesMove;
 /**
  * Warlight AI Game Bot
  *
- * @author Mantas Sinkevicius [mantasink@gmail.com]
+ * @author Mantas Sinkevicius
  * @version 0.7 [2015-09-20]
  */
 public class MrRobot implements Bot {
