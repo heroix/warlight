@@ -1,5 +1,5 @@
 # Mr. Robot
-Warlight bot for [AI Challange](http://theaigames.com/competitions/warlight-ai-challenge/leaderboard/global/a/).
+Warlight bot for [theaigames.com](http://theaigames.com/competitions/warlight-ai-challenge/leaderboard/global/a/).
 
 ## Running
 Run example on local machine (without newlines) using [warlight2-engine](https://github.com/theaigames/warlight2-engine)
